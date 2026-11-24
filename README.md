@@ -2,7 +2,7 @@
   Maxime Renac
   </br>
   <p align="center">
-    <a href="https://www.linkedin.com/in/maxime-renac/">
+    <a href="https://www.linkedin.com/in/maxime-renac">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
     </a>
     <a>
