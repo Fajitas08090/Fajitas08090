@@ -12,10 +12,7 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
     </a>
   </p>
-</h1>
-</br>
-<p></p>
-</br>
+  </br>
   <p align="center">
     <sub>Currently on board with</sub>
     <br>
@@ -29,7 +26,8 @@
       <img src="https://img.shields.io/badge/Bodeboca-A9C200?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAmVBMVEVHcEy80S+90S8NXS+80S+/0i4HllK70TCNnTwNUym4zDGmtzfF1Cy90i+80C87jkIQVCqlyDeIvj8HnUqouzcNgUC80DAxejq70TC90i8Amkq+0S+aqzm90S+drDkSnUkQoEoKUioQVyy80S8HnUkOXS+aqjoRnEmkyDiNwD6qvDaerTo0dzeyyzMNgUAKUSpdr0QNgkBHcExFuaJBAAAAM3RSTlMA3Oro0Kce+Buc5t8ad5RPpOjo6OjogeiATja7pJwG5wni4P///////////////////wAtphcuAAAAb0lEQVQYlWNgIAfw8EjJKzAwyMlwSIqBBVil2dQZBDgZ1Dh4WcACfKwYAvzqbJwgAVkuEF9CWddARV1JkV+NW1kZpIRdWUNTxVBVX0dbS1mZHSaghymgChTQBQswMgkKCYsyM4tzi3AxMZLlE3QAALyFCu3saqYvAAAAAElFTkSuQmCC" />
     </a>
   </p>
-</br>
+  </br>
+</h1>
 I'm Maxime Renac, a data manager based in Barcelona, working at the intersection of **data engineering**, **analytics**, **machine learning**, and **e-commerce**. I own the full data stack of a multi-brand wine retail group (Le Petit Ballon, Decantalo, Bodeboca), from ingestion to dashboards, data products and ML models.
 
 My work usually revolves around turning messy, heterogeneous business data into reliable pipelines, clear metrics, and useful data products. As a data professional, I've learned to keep things **simple, observable, and maintainable**.
