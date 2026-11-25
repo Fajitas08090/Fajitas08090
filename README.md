@@ -27,6 +27,7 @@
   </p>
   </br>
 </h1>
+
 I'm Maxime Renac, a data manager based in Barcelona, working at the intersection of **data engineering**, **analytics**, **machine learning**, and **e-commerce**. I own the full data stack of a multi-brand wine retail group (Le Petit Ballon, Decantalo, Bodeboca), from ingestion to dashboards, data products and ML models.
 
 My work usually revolves around turning messy, heterogeneous business data into reliable pipelines, clear metrics, and useful data products. As a data professional, I've learned to keep things **simple, observable, and maintainable**.
